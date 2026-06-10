@@ -1,0 +1,5 @@
+-r requirements.txt
+langchain==0.3.13
+langgraph==0.2.60
+sentence-transformers==3.3.1
+faiss-cpu==1.9.0.post1
